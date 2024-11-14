@@ -7,8 +7,8 @@ I'm **Abdo**, a Computer Science student with a passion for coding, problem-solv
 - 🛠️ **Technical Skills:** Comfortable with C programming and using the terminal; always looking for ways to make my code more efficient.
 - 💬 **Ask me about:** C programming, data structures, or any questions about getting started with computer science.
 - 🌐 **Connect with me:**
-   - [LinkedIn](your-linkedin-url)
-   - [Instagram](your-instagram-url)
+   - [LinkedIn](https://www.linkedin.com/in/abdellatif--nasser-allah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+   - [Instagram](https://www.instagram.com/abdellatif._02/profilecard/?igsh=MTgzZHBjZ3hzc29hNA==)
 - ⚡ **Fun fact:** I enjoy building projects from scratch to understand how they work at a deeper level.
 
 ---
