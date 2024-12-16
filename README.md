@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Abdo**, a Computer Science student with a passion for coding, problem-solving, and low-level programming. Here’s a bit about me:
+I'm **Abdelllatif NASSER-ALLAH**, a Computer Science student with a passion for coding, problem-solving, and low-level programming. Here’s a bit about me:
 
 - 🔭 **I’m currently working on:** Some exciting projects in C that push my understanding of coding and software development.
 - 🌱 **I’m currently learning:** C programming, GitHub, git, and data structures.
