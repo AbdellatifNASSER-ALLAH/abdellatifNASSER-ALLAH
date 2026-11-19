@@ -1,18 +1,22 @@
 ## Hi there 👋
 
-I'm **Abdelllatif NASSER-ALLAH**, a Computer Science student with a passion for coding, problem-solving, and low-level programming. Here’s a bit about me:
+I'm **Abdellatif NASSER-ALLAH**, a Software Engineering student and Backend Developer at **1337 Coding School (UM6P)** in Morocco. I enjoy building reliable backend services, working close to the system level, and solving complex engineering problems from scratch.
 
-- 🔭 **I’m currently working on:** Some exciting projects in C that push my understanding of coding and software development.
-- 🌱 **I’m currently learning:** C programming, GitHub, git, and data structures.
-- 🛠️ **Technical Skills:** Comfortable with C programming and using the terminal; always looking for ways to make my code more efficient.
-- 💬 **Ask me about:** C programming, data structures, or any questions about getting started with computer science.
-- 🌐 **Connect with me:**
-   - [LinkedIn](https://www.linkedin.com/in/abdellatif--nasser-allah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-   - [Instagram](https://www.instagram.com/abdellatif._02/profilecard/?igsh=MTgzZHBjZ3hzc29hNA==)
-- ⚡ **Fun fact:** I enjoy building projects from scratch to understand how they work at a deeper level.
+- 🎯 **Open to:** Software Engineering, Backend, and Data/Systems opportunities.
+- 🌱 **Currently focusing on:** Backend architecture, RESTful APIs, relational databases, and scalable systems.
+- ⚡ **Fun fact:** I enjoy building things from scratch to understand how they work under the hood.
 
----
+### 💻 Languages & Skills
 
-Thanks for visiting, and feel free to check out my projects or get in touch!
+- **Programming Languages:** C · C++ · TypeScript / JavaScript · SQL · Bash · Python
+- **Backend & Databases:** NestJS · Prisma ORM · PostgreSQL · RESTful APIs · Backend Architecture
+- **Systems & Networking:** Linux (Debian) · Unix System Calls · Valgrind · TCP/IP · Subnetting & Routing · SSH · UFW
+- **Tools & Workflow:** Git · GitHub · Teamwork · Code Review · VirtualBox
 
+### 🌐 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/abdellatif--nasser-allah)
+- [Email](mailto:nasserallahabdellatif2@gmail.com)
+- [Instagram](https://www.instagram.com/abdellatif._02/)
+
+Thanks for visiting — feel free to check out my repositories or get in touch!
