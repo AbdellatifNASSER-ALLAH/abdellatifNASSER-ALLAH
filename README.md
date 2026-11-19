@@ -13,11 +13,12 @@ I'm **Abdellatif NASSER-ALLAH**, a Software Engineering student and Backend Deve
 - **Systems & Networking:** Linux (Debian) · Unix System Calls · Valgrind · TCP/IP · Subnetting & Routing · SSH · UFW
 - **Tools & Workflow:** Git · GitHub · Teamwork · Code Review · VirtualBox
 
-### 📊 GitHub Stats & Most Used Languages
+<!-- ### 📊 GitHub Stats & Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AbdellatifNASSER-ALLAH&layout=compact&theme=transparent&hide_border=true)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AbdellatifNASSER-ALLAH&show_icons=true&theme=transparent&hide_border=true)
+-->
 
 ### 🌐 Connect with Me
 
